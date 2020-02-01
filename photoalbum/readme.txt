@@ -1,6 +1,6 @@
 To run the photo album application:
 
-You will need to this code and compile it into a JAR.  I would import it into an Eclipse workspace, as a Maven project.
+You will need to take this code and compile it into a JAR.  I would import it into an Eclipse workspace, as a Maven project.
  
 After it has been imported into Eclipse, you will need to build the JAR file by running a Maven Install.
     In Eclipse, right click on the pom.xml file and choose "Run As" and then Maven Install.
